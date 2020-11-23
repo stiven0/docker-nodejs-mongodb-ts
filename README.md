@@ -4,7 +4,7 @@
 
 ## Primero descarguen o clonen el repositorio
 ```
-git clone https://github.com/stiven0/docker-nodejs-ts.git
+git clone https://github.com/stiven0/docker-nodejs-mongodb-ts.git
 ```
 
 ## Correr la Aplicacion
