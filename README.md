@@ -1,4 +1,4 @@
-![docker](https://blog.xebialabs.com/wp-content/uploads/2019/05/docker-e1558536954364.jpg)
+![docker](https://ertan-toker.de/wp-content/uploads/2018/05/docker-mongo.png)
 
 # Ejemplo basico de servidor de nodejs y mongodb desarrollado con ts y montado en un Docker-compose
 
